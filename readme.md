@@ -47,12 +47,24 @@ The most common faults are:
 Check out the [debugging guide](http://www.leewillis.co.uk/debugging-problems-campaign-monitor-widgets/) to find out exactly what your problem might be.
 
 ## Screenshots
-1. Configuration
-2. Sign-up form
-3. Ajax submission
-4. Feedback
-5. Inserting a shortcode
-6. Choosing a shortcode / creating a new shortcode
+
+### Configuration
+![Configuration](https://github.com/ademti-software/ajax-campaign-monitor-forms-/blob/49c7c0dcee8e409b1c8ec4879bcccaf6bd0c3ffe/screenshot-1.png?raw)
+
+### Sign-up form
+![Sign-up form](https://github.com/ademti-software/ajax-campaign-monitor-forms-/blob/49c7c0dcee8e409b1c8ec4879bcccaf6bd0c3ffe/screenshot-2.png)
+
+### Ajax submission
+![Ajax submission](https://github.com/ademti-software/ajax-campaign-monitor-forms-/blob/49c7c0dcee8e409b1c8ec4879bcccaf6bd0c3ffe/screenshot-3.png)
+
+### Feedback
+![Feedback](https://github.com/ademti-software/ajax-campaign-monitor-forms-/blob/49c7c0dcee8e409b1c8ec4879bcccaf6bd0c3ffe/screenshot-4.png)
+
+### Inserting a shortcode
+![Inserting a shortcode](https://github.com/ademti-software/ajax-campaign-monitor-forms-/blob/49c7c0dcee8e409b1c8ec4879bcccaf6bd0c3ffe/screenshot-5.png)
+
+### Choosing a shortcode / creating a new shortcode
+![Choosing a shortcode / creating a new shortcode](https://github.com/ademti-software/ajax-campaign-monitor-forms-/blob/49c7c0dcee8e409b1c8ec4879bcccaf6bd0c3ffe/screenshot-6.png)
 
 ## Changelog
 
